@@ -57,3 +57,7 @@ title: "Competitive Programming Newbs"
 - Read [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) Chapters 1-4 by July 2nd.
 
 - Be prepared to discuss what you learned.
+
+## Standings
+
+[Standings Here](./standings.html)

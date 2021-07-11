@@ -17,7 +17,7 @@ SOURCES := $(shell find src -type f -name '*.md')
 TARGETS := $(patsubst src/%.md,docs/%.html,$(SOURCES))
 
 .PHONY: all
-all: docs/.nojekyll $(TARGETS)
+all: docs/.nojekyll $(TARGETS) 
 
 .PHONY: netlify 
 netlify: 
