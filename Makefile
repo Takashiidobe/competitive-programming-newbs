@@ -19,8 +19,8 @@ TARGETS := $(patsubst src/%.md,docs/%.html,$(SOURCES))
 .PHONY: all
 all: docs/.nojekyll $(TARGETS)
 
-.PHONY: deploy
-deploy: 
+.PHONY: netlify 
+netlify: 
 	ntl deploy --prod
 
 .PHONY: clean
