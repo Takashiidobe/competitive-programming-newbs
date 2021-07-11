@@ -2,6 +2,12 @@
 title: "Competitive Programming Newbs"
 ---
 
+# Standings
+
+## CSES
+
+[Standings](./standings.html)
+
 # Homework
 
 ## CSES
@@ -58,6 +64,3 @@ title: "Competitive Programming Newbs"
 
 - Be prepared to discuss what you learned.
 
-## Standings
-
-[Standings Here](./standings.html)

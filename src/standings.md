@@ -1,33 +1,8 @@
-# Standings
+---
+title: Standings
+---
 
-<table class="summary-table narrow">
- <tbody>
-  <tr>
-   <td>
-    Number of users:
-   </td>
-   <td>
-    47899
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Number of tasks:
-   </td>
-   <td>
-    300
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Solved tasks:
-   </td>
-   <td>
-    735882 (15.36 tasks per user)
-   </td>
-  </tr>
- </tbody>
-</table>
+
 <table class="narrow">
  <colgroup>
   <col class="small-col">
@@ -57,6 +32,24 @@
     1
    </td>
    <td>
+    <a href="/problemset/user/69586/">
+     bkorecic
+    </a>
+   </td>
+   <td>
+    47
+   </td>
+   <td>
+    <span class="green">
+     2021-07-11
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    2
+   </td>
+   <td>
     <a href="/problemset/user/69587/">
      humbug
     </a>
@@ -72,7 +65,7 @@
   </tr>
   <tr>
    <td>
-    2
+    3
    </td>
    <td>
     <a href="/problemset/user/53872/">
@@ -90,7 +83,7 @@
   </tr>
   <tr>
    <td>
-    3
+    4
    </td>
    <td>
     <a href="/problemset/user/69664/">
