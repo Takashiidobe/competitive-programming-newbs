@@ -37,7 +37,7 @@ title: Standings
     </a>
    </td>
    <td>
-    47
+    51
    </td>
    <td>
     <span class="green">
@@ -55,11 +55,11 @@ title: Standings
     </a>
    </td>
    <td>
-    40
+    49
    </td>
    <td>
     <span class="green">
-     2021-07-10
+     2021-07-17
     </span>
    </td>
   </tr>
@@ -68,22 +68,40 @@ title: Standings
     3
    </td>
    <td>
-    <a href="/problemset/user/53872/">
-     takashiidobe
+    <a href="/problemset/user/69604/">
+     binarypanda
     </a>
    </td>
    <td>
-    30
+    42
    </td>
    <td>
     <span class="green">
-     2021-07-11
+     2021-07-12
     </span>
    </td>
   </tr>
   <tr>
    <td>
     4
+   </td>
+   <td>
+    <a href="/problemset/user/53872/">
+     takashiidobe
+    </a>
+   </td>
+   <td>
+    31
+   </td>
+   <td>
+    <span class="green">
+     2021-07-12
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    5
    </td>
    <td>
     <a href="/problemset/user/69664/">
@@ -96,6 +114,24 @@ title: Standings
    <td>
     <span class="green">
      2021-07-10
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    6
+   </td>
+   <td>
+    <a href="/problemset/user/69588/">
+     Azote
+    </a>
+   </td>
+   <td>
+    8
+   </td>
+   <td>
+    <span class="red">
+     2021-06-30
     </span>
    </td>
   </tr>
