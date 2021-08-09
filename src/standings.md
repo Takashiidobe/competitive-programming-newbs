@@ -37,11 +37,11 @@ title: Standings
     </a>
    </td>
    <td>
-    51
+    60
    </td>
    <td>
     <span class="green">
-     2021-07-11
+     2021-07-24
     </span>
    </td>
   </tr>
@@ -55,11 +55,11 @@ title: Standings
     </a>
    </td>
    <td>
-    49
+    51
    </td>
    <td>
-    <span class="green">
-     2021-07-17
+    <span class="red">
+     2021-07-18
     </span>
    </td>
   </tr>
@@ -73,11 +73,11 @@ title: Standings
     </a>
    </td>
    <td>
-    42
+    49
    </td>
    <td>
     <span class="green">
-     2021-07-12
+     2021-07-19
     </span>
    </td>
   </tr>
@@ -91,11 +91,11 @@ title: Standings
     </a>
    </td>
    <td>
-    31
+    32
    </td>
    <td>
-    <span class="green">
-     2021-07-12
+    <span class="red">
+     2021-07-18
     </span>
    </td>
   </tr>
@@ -112,7 +112,7 @@ title: Standings
     9
    </td>
    <td>
-    <span class="green">
+    <span class="red">
      2021-07-10
     </span>
    </td>
